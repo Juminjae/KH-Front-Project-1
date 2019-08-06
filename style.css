@@ -1,0 +1,48 @@
+.left{
+    position: fixed;
+    right: 0px;
+    width: auto;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-top: 250px;
+    padding-right: 100px; 
+}
+.article {
+    position: relative;
+    width: auto;
+    bottom: 200px;
+}
+body,html {
+    background: url('./KHH_background2.jpg') 0 0 no-repeat; 
+    background-size: 1920px 1080px;
+    margin: 0;
+}
+main{
+    position: relative;
+    width: auto;
+    top: 30px;
+    left: 82px;
+    font-size: 30px;
+}
+.main {
+    float: right;
+    position: relative;
+    right: 100px;
+    bottom: 100px;
+    border-radius: 2em;
+}
+.footer {
+    float: right;
+    position: relative;
+    right: auto;
+    top: 150px;
+    left: 83px;
+}
+.side{
+    position: relative;
+    float: left;
+    width: auto;
+    height: 100px;
+    padding-top: 180px;
+    padding-left: 50px;
+}
